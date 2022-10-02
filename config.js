@@ -15,15 +15,15 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://zenzapis.xyz': 'b9da8549e9',
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
+global.owner = ['Franzz']
+global.ownernomer = "6282133048747"
 global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.packname = 'Franz'
+global.author = 'nup'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
