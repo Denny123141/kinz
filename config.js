@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Franzz']
+global.owner = ['6282133048747']
 global.ownernomer = "6282133048747"
 global.premium = ['6285875158363']
 global.packname = 'Franz'
