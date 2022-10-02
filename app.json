@@ -1,11 +1,4 @@
 {
-	"name": "naze",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/nazedev/naze-md",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
-}
-{
   "name": "whatsapp-bot",
   "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/Denny123141/kinz",
