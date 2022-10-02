@@ -5,3 +5,22 @@
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
+{
+  "name": "whatsapp-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/Denny123141/kinz",
+  "logo": "https://c.top4top.io/p_2069qnvob1.jpg",
+  "keywords": [
+    "nodejs",
+    "bot",
+    "whatsapp bot",
+    "whatsapp automation"
+  ],
+  "image":"heroku/nodejs",
+  "buildpacks": [{
+    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+  }, {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "https://github.com/bennysolo/heroku-libwebp-buildpack"
+  }]
